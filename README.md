@@ -1,36 +1,28 @@
-# 🚀 Java Projects Collection
+# 🎮 Tic Tac Toe Game – Java Swing Edition
 
-Welcome to the **Java Projects Collection** repository! 👋  
-This repo contains a variety of Java-based projects including a **calculator**, a **simple game**, and many more useful programs. 💻☕
+A simple and interactive **Tic Tac Toe** game built using **Java Swing**.
 
----
-
-## 📂 Projects Included
-
-### 🧮 Calculator
-A simple and user-friendly calculator with support for:
-- Basic arithmetic (➕ ➖ ✖️ ➗)
-- GUI using Swing
-- Error handling and input validation
-
-### 🎮 Game
-An interactive Java-based game featuring:
-- Fun gameplay mechanics
-- Graphics with Java Swing or JavaFX
-- Score tracking and levels
-
-### 🛠️ More Programs
-- 📋 To-do List Manager  
-- 📧 Email Validator  
-- And more coming soon...
+This project supports all classic features plus extras like:
+- 🧠 **Point Calculator** – Keeps track of each player's score
+- 🏆 **Win Detection** – Highlights who won each round
+- 🤝 **Tie Recognition** – Detects when there's no winner
+- 🔁 **Play Again Option** – Restart the game with a click
+- 🎨 **Graphical UI** – Built using Java Swing for a clean desktop experience
 
 ---
 
-## 🧰 Technologies Used
+## 🛠️ Technologies Used
 
-- **Java** ☕ (Primary language)
-- Java Swing / JavaFX (for UI)
-- OOP principles
-- Basic data structures (arrays, lists, maps)
+- ☕ Java 
+- 🖼️ Swing (Java GUI toolkit)
+- 🧪 Java AWT for event handling
 
 ---
+
+## 🚀 Features
+
+- ✅ Player X vs Player O
+- ✅ Clickable grid buttons (3x3)
+- ✅ Real-time win/tie feedback
+- ✅ Scoreboard that updates after every match
+- ✅ Clear and restart options for new games
