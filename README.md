@@ -21,6 +21,3 @@ This collection serves as a portfolio and learning resource, highlighting Java's
 - 🧰 **Utility Scripts** – Reusable tools and helper classes
 
 ---
-
-## 🗂️ Repository Structure
-
