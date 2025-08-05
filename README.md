@@ -1,28 +1,26 @@
-# 🎮 Tic Tac Toe Game – Java Swing Edition
+# ☕ Java Project Collection
 
-A simple and interactive **Tic Tac Toe** game built using **Java Swing**.
-
-This project supports all classic features plus extras like:
-- 🧠 **Point Calculator** – Keeps track of each player's score
-- 🏆 **Win Detection** – Highlights who won each round
-- 🤝 **Tie Recognition** – Detects when there's no winner
-- 🔁 **Play Again Option** – Restart the game with a click
-- 🎨 **Graphical UI** – Built using Java Swing for a clean desktop experience
+Welcome to the **Java Project Collection** repository! 🎉  
+This repository is a personal archive of Java-based projects demonstrating a wide range of core and advanced Java concepts, including **Object-Oriented Programming (OOP)**, **Swing GUI**, **Spring Boot**, and more.
 
 ---
 
-## 🛠️ Technologies Used
+## 📚 Overview
 
-- ☕ Java 
-- 🖼️ Swing (Java GUI toolkit)
-- 🧪 Java AWT for event handling
+This collection serves as a portfolio and learning resource, highlighting Java's versatility through small to medium-scale projects. Each project is designed to demonstrate real-world use cases and core development principles.
+
+### ✅ Key Concepts Covered
+
+- 🔹 **OOP (Object-Oriented Programming)** – Classes, inheritance, abstraction, polymorphism, encapsulation  
+- 🖼️ **Swing GUI** – Desktop applications with graphical interfaces  
+- 🌱 **Spring Boot** – RESTful APIs and backend services  
+- 🧪 **JUnit** – Unit and integration testing  
+- 📦 **Maven / Gradle** – Build automation and dependency management  
+- 🗄️ **JPA / Hibernate** – ORM and database interaction  
+- 📡 **REST APIs** – API creation and consumption  
+- 🧰 **Utility Scripts** – Reusable tools and helper classes
 
 ---
 
-## 🚀 Features
+## 🗂️ Repository Structure
 
-- ✅ Player X vs Player O
-- ✅ Clickable grid buttons (3x3)
-- ✅ Real-time win/tie feedback
-- ✅ Scoreboard that updates after every match
-- ✅ Clear and restart options for new games
